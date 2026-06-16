@@ -1,0 +1,129 @@
+{
+  "company": {
+    "name": "S. Castillo Construction",
+    "tagline": "Fine Stucco & Stone, Houston TX",
+    "description": "Fine stucco, stone, and remodeling for discerning homeowners across the greater Houston area since 2000.",
+    "yearsInBusiness": 20,
+    "projectsCompleted": 500,
+    "address": "414 Oaks Dr, South Houston, TX 77587",
+    "hours": "Mon – Sat, 7am – 6pm"
+  },
+  "contact": {
+    "email": "Josecas3311942@gmail.com",
+    "team": [
+      {
+        "name": "Santos Castillo",
+        "phone": "832-781-9726"
+      },
+      {
+        "name": "Adrian",
+        "phone": "832-552-5651"
+      },
+      {
+        "name": "Felix",
+        "phone": "832-618-6092"
+      },
+      {
+        "name": "Jose",
+        "phone": "832-330-3687"
+      }
+    ]
+  },
+  "services": [
+    {
+      "id": "01",
+      "title": "Fine Stucco",
+      "description": "Traditional and modern stucco systems applied with precision — smooth, textured, or sculpted — engineered to endure Houston's demanding climate."
+    },
+    {
+      "id": "02",
+      "title": "Natural Stone",
+      "description": "Handset natural and manufactured stone for facades, columns, accent walls, and entryways that elevate a home's curb appeal and market value."
+    },
+    {
+      "id": "03",
+      "title": "Exterior Painting",
+      "description": "Premium coatings applied by experienced painters who understand surface preparation, weather protection, and lasting finish quality."
+    },
+    {
+      "id": "04",
+      "title": "Full Remodeling",
+      "description": "Complete interior and exterior remodels — kitchens, bathrooms, living spaces — executed with the same craftsmanship as our exterior work."
+    },
+    {
+      "id": "05",
+      "title": "Residential",
+      "description": "From custom new builds to estate renovations, we bring the same level of care to every home, regardless of project size."
+    },
+    {
+      "id": "06",
+      "title": "Commercial",
+      "description": "Hotels, retail centers, and office complexes trust S. Castillo to deliver commercial-grade finishing on schedule and to specification."
+    }
+  ],
+  "portfolio": {
+    "beforeAfter": [
+      {
+        "before": "IMG_8180.jpg",
+        "after": "IMG_8179.jpg",
+        "title": "Commercial Hotel — Before & After"
+      }
+    ],
+    "gallery": [
+      {
+        "image": "IMG_8173.jpg",
+        "title": "Residential Estate — Stucco & Stone"
+      },
+      {
+        "image": "IMG_8176.jpg",
+        "title": "Custom Residence — Stucco Finish"
+      },
+      {
+        "image": "IMG_8181.jpg",
+        "title": "Stone Facade — Detail Work"
+      },
+      {
+        "image": "IMG_8175.jpg",
+        "title": "Commercial — Stone Base"
+      },
+      {
+        "image": "IMG_8177.jpg",
+        "title": "Estate — Stucco & Natural Stone"
+      },
+      {
+        "image": "IMG_8178.jpg",
+        "title": "Modern Residence — White Stucco"
+      },
+      {
+        "image": "IMG_8173.jpg",
+        "title": "Residential — Curb Appeal Transformation"
+      }
+    ]
+  },
+  "testimonial": {
+    "text": "S. Castillo transformed the exterior of our home completely. The craftsmanship was unlike anything we had seen — every detail was handled with care and professionalism. Our home looks like a million dollars.",
+    "author": "Satisfied Homeowner, The Woodlands, TX"
+  },
+  "process": [
+    {
+      "step": "I",
+      "title": "Consultation",
+      "description": "We visit your property, listen to your vision, and assess the scope of work — at no cost to you."
+    },
+    {
+      "step": "II",
+      "title": "Custom Quote",
+      "description": "You receive a detailed, transparent estimate with materials, timeline, and pricing — no surprises."
+    },
+    {
+      "step": "III",
+      "title": "Craftsmanship",
+      "description": "Our experienced crew executes the work with precision, keeping you informed at every stage."
+    },
+    {
+      "step": "IV",
+      "title": "Final Walkthrough",
+      "description": "We walk the project with you before we consider it complete. Your satisfaction is the only standard that matters."
+    }
+  ]
+}
