@@ -1,0 +1,14 @@
+{
+  "name": "scastillo-website",
+  "version": "1.0.0",
+  "description": "S. Castillo Construction - Fine Stucco & Stone, Houston TX",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python -m http.server 3000 || npx http-server -p 3000",
+    "build": "echo 'Static site - no build needed'",
+    "start": "python -m http.server 3000"
+  },
+  "keywords": ["stucco", "stone", "construction", "houston"],
+  "author": "S. Castillo Construction",
+  "license": "ISC"
+}
