@@ -1,0 +1,39 @@
+{
+  "jobPositions": [
+    {
+      "id": "stucco-specialist",
+      "title": "Stucco Specialist",
+      "description": "Apply and finish stucco on residential and commercial projects",
+      "requirements": ["3+ years experience", "Knowledge of traditional and modern stucco systems", "Attention to detail"],
+      "salary": "Competitive"
+    },
+    {
+      "id": "painter",
+      "title": "Exterior Painter",
+      "description": "Premium exterior painting and surface preparation",
+      "requirements": ["2+ years experience", "Surface preparation expertise", "Weather protection knowledge"],
+      "salary": "Competitive"
+    },
+    {
+      "id": "stone-mason",
+      "title": "Stone Mason",
+      "description": "Handset natural and manufactured stone for facades and accents",
+      "requirements": ["3+ years experience", "Stone handling and installation", "Precision work"],
+      "salary": "Competitive"
+    },
+    {
+      "id": "general-laborer",
+      "title": "General Laborer",
+      "description": "Assist with various construction and finishing tasks",
+      "requirements": ["Willingness to learn", "Physical capability", "Team player"],
+      "salary": "Starting rate"
+    },
+    {
+      "id": "project-manager",
+      "title": "Project Manager",
+      "description": "Oversee residential and commercial projects from start to finish",
+      "requirements": ["5+ years construction experience", "Leadership skills", "Client communication"],
+      "salary": "Salary + Commission"
+    }
+  ]
+}
